@@ -2,14 +2,14 @@
 # 需要修改的内容已经用中文标注出来了
 
 # Site
-title: 站点标题
-subtitle:
-description:
-author: 站点作者
+title: Jaion's blog
+subtitle: 一如年少模样
+description: 锦城虽云乐，不如早还家
+author: Jaion
 language: zh-Hans
 timezone:
 
-url: https://站点域名
+url: https://jaion.tech
 root: /
 permalink: :title/
 permalink_defaults:
@@ -50,7 +50,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: 随笔
 category_map:
 tag_map:
 
